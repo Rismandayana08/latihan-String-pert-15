@@ -32,7 +32,7 @@ print("Teks dalam huruf kecil:", huruf_kecil)
 ganti_h = txt.replace("H", "K")
 print("Teks setelah mengganti H dengan k:", ganti_h)
 ```
-## Output
+## Output 1
 ````markdown
 Jumlah karakter: 11
 Karakter terakhir: d
@@ -49,10 +49,7 @@ txt = 'Hello, nama saya jui, dan umur saya adalah {} tahun'
 
 print(txt.format(umur))
 ```
-## Output
+## Output 2
 ````markdwon
-Teks dalam huruf kecil: hello world
-Teks setelah mengganti H dengan k: Kello World
-PS D:\kuliah\B.PEMROGRAMAN> & C:/Python312/python.exe "d:/kuliah/B.PEMROGRAMAN/latihan string pert 15/latihan2.py"
 Hello, nama saya jui, dan umur saya adalah 20 tahun
 ````
